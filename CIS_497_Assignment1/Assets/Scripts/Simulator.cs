@@ -1,3 +1,11 @@
+/* 
+ * Camron Hunt
+ * Simulator.cs
+ * Assignment 1
+ * Creates two lists of enemies of type Enemy and IAttack and going through 
+ * those lists to perform a function from the correspondin abstract class or 
+ * interface
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

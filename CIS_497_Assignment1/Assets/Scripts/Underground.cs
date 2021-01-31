@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * Underground.cs
+ * Assignment 1
+ * A class of underground enemies that move towards a target and under or through obstacles
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

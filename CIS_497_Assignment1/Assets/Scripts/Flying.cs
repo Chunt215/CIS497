@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * Flying.cs
+ * Assignment 1
+ * A class of flying enemies that move towards a target and around high obstacles
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

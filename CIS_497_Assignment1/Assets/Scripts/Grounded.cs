@@ -1,3 +1,10 @@
+/* 
+ * Camron Hunt
+ * Grounded.cs
+ * Assignment 1
+ * A class of grounded enemies that move towards a target along a path and 
+ * around all obstacles
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
