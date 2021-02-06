@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * Player.cs
+ * Assignment 2
+ * This changes what spell is active and the color of spell slots in-game 
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

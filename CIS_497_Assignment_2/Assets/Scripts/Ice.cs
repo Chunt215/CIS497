@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * Ice.cs
+ * Assignment 2
+ * Implements Spells and prints what the functions do
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
