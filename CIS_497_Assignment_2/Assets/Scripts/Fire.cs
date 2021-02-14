@@ -15,8 +15,8 @@ public class Fire : Spells
         Debug.Log("Fire Active");
     }
 
-    public override void useSpell()
+    public override string useSpell()
     {
-        Debug.Log("Cast Fire");
+        return "Cast Fire";
     }
 }

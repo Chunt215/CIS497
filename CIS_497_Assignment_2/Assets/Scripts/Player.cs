@@ -7,6 +7,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -14,10 +15,16 @@ public class Player : MonoBehaviour
     public GameObject spellSlot1;
     public GameObject spellSlot2;
     public GameObject spellSlot3;
+    public Text castText;
+    public Color origColor;
+    public Color transparent;
 
     // Start is called before the first frame update
     void Start()
     {
+        origColor = castText.color;
+        transparent.a = 0.0f;
+        castText.color = transparent;
         activeSpell = gameObject.AddComponent<Fire>();
         spellSlot1.GetComponent<SpriteRenderer>().material.color = Color.red;
     }
@@ -27,7 +34,8 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            activeSpell.useSpell();
+            castText.text = activeSpell.useSpell();
+            castText.color = origColor;
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha1))

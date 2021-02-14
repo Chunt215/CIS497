@@ -11,5 +11,5 @@ using UnityEngine;
 public abstract class Spells : MonoBehaviour
 {
     public abstract void chooseSpell();
-    public abstract void useSpell();
+    public abstract string useSpell();
 }

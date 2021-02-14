@@ -15,8 +15,8 @@ public class Lightning : Spells
         Debug.Log("Lightning Active");
     }
 
-    public override void useSpell()
+    public override string useSpell()
     {
-        Debug.Log("Cast Lightning");
+        return "Cast Lightning";
     }
 }

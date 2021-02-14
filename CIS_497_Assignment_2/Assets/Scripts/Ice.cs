@@ -15,8 +15,8 @@ public class Ice : Spells
         Debug.Log("Ice Active");
     }
 
-    public override void useSpell()
+    public override string useSpell()
     {
-        Debug.Log("Cast Ice");
+        return "Cast Ice";
     }
 }
