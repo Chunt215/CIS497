@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * DebuffDefense
+ * Assignment 4
+ * Base for the enemy 
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

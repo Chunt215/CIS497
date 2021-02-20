@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * BuffDefense
+ * Assignment 4
+ * Lowers the damage that the player takes 
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

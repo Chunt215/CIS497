@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * DebuffDefense
+ * Assignment 4
+ * Controls the game state
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

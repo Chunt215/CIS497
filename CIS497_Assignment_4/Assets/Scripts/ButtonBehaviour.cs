@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * DebuffDefense
+ * Assignment 4
+ * Mkaes the game work by clicking buttons
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * DebuffDefense
+ * Assignment 4
+ * Creates the base abstract class 
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

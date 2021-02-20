@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * DebuffDefense
+ * Assignment 4
+ * Class for the buffs and debuffs
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

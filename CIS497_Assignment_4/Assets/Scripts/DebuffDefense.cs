@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * DebuffDefense
+ * Assignment 4
+ * Raises the damage that the enemy takes
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

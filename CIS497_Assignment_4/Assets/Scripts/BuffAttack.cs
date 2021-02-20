@@ -1,3 +1,9 @@
+/* 
+ * Camron Hunt
+ * BuffAttack
+ * Assignment 4
+ * Raises the damage that the player does
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
