@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * MachineGunBehaviour.cs
+ * Assignment 6
+ * creates the machine gun bullets
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * MGPiercingRounds.cs
+ * Assignment 6
+ * controls how the machine gun piercing rounds move and destroy
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

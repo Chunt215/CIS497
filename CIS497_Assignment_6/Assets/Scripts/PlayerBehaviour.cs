@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * PlayerBehaviour.cs
+ * Assignment 6
+ * controls the players movement and weapons
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

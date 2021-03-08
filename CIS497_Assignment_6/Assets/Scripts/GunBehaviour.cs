@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * GunBehaviour.cs
+ * Assignment 6
+ * creates the gun creator base class
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

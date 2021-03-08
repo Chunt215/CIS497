@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * ShotgunBehaviour.cs
+ * Assignment 6
+ * creates the shotgun bullets
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

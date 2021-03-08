@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * MGExplosiveRounds.cs
+ * Assignment 6
+ * controls how the machine gun explosive rounds move and destroy
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

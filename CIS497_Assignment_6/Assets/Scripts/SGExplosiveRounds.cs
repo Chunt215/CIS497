@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * SGExplosiveRounds.cs
+ * Assignment 6
+ * controls how the shotgun explosive rounds move and destroy
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

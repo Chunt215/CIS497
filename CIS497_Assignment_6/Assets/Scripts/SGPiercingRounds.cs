@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * SGPiercingRounds.cs
+ * Assignment 6
+ * controls how the shotgun piercing rounds move and destroy
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

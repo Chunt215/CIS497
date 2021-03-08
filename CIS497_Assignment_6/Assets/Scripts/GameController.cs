@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt 
+ * GameController.cs
+ * Assignment 6
+ * spawns enemies and deletes tutorial text
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
