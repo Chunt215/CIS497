@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt
+ * TargetPooler.cs
+ * Assignment 10
+ * creates and holds the objects in the pool
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

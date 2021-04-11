@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt
+ * GameController.cs
+ * Assignment 10
+ * controls and records the score and text
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

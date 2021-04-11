@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt
+ * TargetBehaviour.cs
+ * Assignment 10
+ * controls how the targets go back to the object pool
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

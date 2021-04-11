@@ -1,3 +1,9 @@
+/*
+ * Camron Hunt
+ * TargetSpawner.cs
+ * Assignment 10
+ * controls the spawning of the targets at random locations
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
